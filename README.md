@@ -22,7 +22,7 @@ The project directory contains the following files:
 - `.gitignore`: Specifies files and directories to be ignored by Git.
 
 ## Data Source
-The dataset used in this project is the California Housing Prices dataset, which includes features related to housing characteristics and the median house value in California districts.[here](https://www.kaggle.com/datasets/camnugent/california-housing-prices/data).
+The dataset used in this project is the California Housing Prices dataset, which includes features related to housing characteristics and the median house value in California districts => [here](https://www.kaggle.com/datasets/camnugent/california-housing-prices/data).
 
 ## Methodology
 1. **Data Preprocessing**: 
