@@ -1,7 +1,17 @@
 # California Housing Prices Prediction
 
 ## Project Overview
-This project aims to predict housing prices in California based on features such as geographical location, number of rooms, and median income using the California Housing Prices dataset. The project involves data preprocessing, exploratory data analysis, model building, and evaluation.
+The goal of this project is to predict housing prices in California based on features such as geographical location, number of rooms, and median income using the California Housing Prices dataset. This analysis involves data preprocessing, exploratory data analysis, model building, and evaluation.
+
+## Table of Contents
+- [Project Overview](#project-overview)
+- [File Structure](#file-structure)
+- [Data Source](#data-source)
+- [Methodology](#methodology)
+- [Key Metrics](#key-metrics)
+- [Installation](#installation)
+- [Results](#results)
+- [Licensing, Authors, and Acknowledgements](#licensing-authors-and-acknowledgements)
 
 ## File Structure
 The project directory contains the following files:
@@ -23,7 +33,7 @@ The dataset used in this project is the California Housing Prices dataset, which
    - Normalize numerical features.
 2. **Exploratory Data Analysis**:
    - Analyze feature distributions.
-   - Examine relationships between features and target variable.
+   - Examine relationships between features and the target variable.
 3. **Model Building**:
    - Implement regression models to predict housing prices.
    - Evaluate model performance using metrics like RMSE and R² Score.
@@ -33,6 +43,9 @@ The dataset used in this project is the California Housing Prices dataset, which
 ## Key Metrics
 - **Root Mean Squared Error (RMSE)**: Measures the average deviation between predicted and actual values.
 - **R² Score**: Indicates the proportion of variance in the dependent variable that is predictable from the independent variables.
+
+## Detail:
+For a detailed explanation of the results and visualizations, please refer to the blog post available [here](https://tamokiloi.github.io/).
 
 ## Installation
 To set up the project environment, install the required Python packages listed in `requirements.txt`:
