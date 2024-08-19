@@ -1,8 +1,5 @@
 # California Housing Prices Prediction
 
-## Project Overview
-The goal of this project is to predict housing prices in California based on features such as geographical location, number of rooms, and median income using the California Housing Prices dataset. This analysis involves data preprocessing, exploratory data analysis, model building, and evaluation.
-
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [File Structure](#file-structure)
@@ -10,8 +7,9 @@ The goal of this project is to predict housing prices in California based on fea
 - [Methodology](#methodology)
 - [Key Metrics](#key-metrics)
 - [Installation](#installation)
-- [Results](#results)
-- [Licensing, Authors, and Acknowledgements](#licensing-authors-and-acknowledgements)
+
+## Project Overview
+The goal of this project is to predict housing prices in California based on features such as geographical location, number of rooms, and median income using the California Housing Prices dataset. This analysis involves data preprocessing, exploratory data analysis, model building, and evaluation.
 
 ## File Structure
 The project directory contains the following files:
